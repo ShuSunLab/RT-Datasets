@@ -1,5 +1,5 @@
 # RT-Datasets
-Datasets For Cross Band CSI Reconstruction by Sionna RT
+Datasets For Cross-Band CSI Reconstruction by Sionna RT
 
 
 This repository provides the ray-tracing (RT) subset used in our cross-band CSI
